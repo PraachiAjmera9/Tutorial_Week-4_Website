@@ -1,0 +1,13 @@
+---
+title: "Testing post"
+author: "Praachi Ajmera"
+date: "2024-08-16"
+categories: [news]
+image: "image.jpg"
+---
+
+## Hello
+
+## Welcome to the testing post of the website
+
+### It is not necessary to have the same name as index.qmd

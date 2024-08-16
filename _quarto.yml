@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Tutorial_Week-4_Website"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/PraachiAjmera9
+   
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
